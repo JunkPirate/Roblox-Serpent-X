@@ -1,3 +1,4 @@
+if game.PlaceId == 155615604 then
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
 local Window = Library.CreateLib("Serpent X", "Serpent")
 -- Main
@@ -1480,3 +1481,4 @@ Sword.Parent = game.Players.LocalPlayer.Backpack
 end
 end)
 end)
+end
