@@ -1,2 +1,1 @@
-# Roblox-Serpent-X
-Epic Script Hub
+-- If you are going to share or modify my hub please credit me -- 
