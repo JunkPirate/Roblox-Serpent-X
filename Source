@@ -1,2 +1,2 @@
 if game.PlaceId == 155615604 then
-loadstring(game:HttpGet("https://pastebin.com/sYEPgq6D"))()
+loadstring(game:HttpGet("https://pastebin.com/raw/sYEPgq6D"))()
